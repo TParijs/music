@@ -60,7 +60,7 @@ a:visited{
 }
 html {
     text-align: center;
-    background: url(/img/spin.gif) no-repeat center center fixed;
+    background: url(img/spin.gif) no-repeat center center fixed;
     background-repeat: no-repeat;
     background-size: cover;
     color: black;
