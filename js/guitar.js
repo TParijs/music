@@ -1,9 +1,9 @@
-const audio = new Audio('/audio/guitar3.mp3');
-const audio2 = new Audio('/audio/guitar.mp3');
-const audio3 = new Audio('/audio/guitar4.mp3');
-const audio4 = new Audio('/audio/guitar5.mp3');
-const audio5 = new Audio('/audio/guitar6.mp3');
-const audio6 = new Audio('/audio/guitar7.mp3')
+const audio = new Audio('audio/guitar3.mp3');
+const audio2 = new Audio('audio/guitar.mp3');
+const audio3 = new Audio('audio/guitar4.mp3');
+const audio4 = new Audio('audio/guitar5.mp3');
+const audio5 = new Audio('audio/guitar6.mp3');
+const audio6 = new Audio('audio/guitar7.mp3')
 
 document.addEventListener("keydown", checkKeyPressed, false);
 

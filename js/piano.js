@@ -1,13 +1,13 @@
-const audio = new Audio('/audio/piano.mp3');
-const audio2 = new Audio('/audio/piano2.mp3');
-const audio3 = new Audio('/audio/piano3.mp3');
-const audio4 = new Audio('/audio/piano4.mp3');
-const audio5 = new Audio('/audio/piano5.mp3');
-const audio6 = new Audio('/audio/piano6.mp3');
-const audio7 = new Audio('/audio/piano7.mp3');
-const audio8 = new Audio('/audio/piano8.mp3');
-const audio9 = new Audio('/audio/piano9.mp3');
-const audio10 = new Audio('/audio/piano10.mp3');
+const audio = new Audio('audio/piano.mp3');
+const audio2 = new Audio('audio/piano2.mp3');
+const audio3 = new Audio('audio/piano3.mp3');
+const audio4 = new Audio('audio/piano4.mp3');
+const audio5 = new Audio('audio/piano5.mp3');
+const audio6 = new Audio('audio/piano6.mp3');
+const audio7 = new Audio('audio/piano7.mp3');
+const audio8 = new Audio('audio/piano8.mp3');
+const audio9 = new Audio('audio/piano9.mp3');
+const audio10 = new Audio('audio/piano10.mp3');
 
 
 window.addEventListener("keydown", checkKeyPressed, false);

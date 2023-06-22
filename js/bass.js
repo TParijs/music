@@ -1,7 +1,7 @@
-const audio = new Audio('/audio/bass1 (1).mp3');
-const audio2 = new Audio('/audio/bass2 (1).mp3');
-const audio3 = new Audio('/audio/bass3.mp3');
-const audio4 = new Audio('/audio/bass4.mp3');
+const audio = new Audio('audio/bass1 (1).mp3');
+const audio2 = new Audio('audio/bass2 (1).mp3');
+const audio3 = new Audio('audio/bass3.mp3');
+const audio4 = new Audio('audio/bass4.mp3');
 
 
 

@@ -1,13 +1,13 @@
-const audio = new Audio('/audio/trumpet.mp3');
-const audio2 = new Audio('/audio/trumpet2.mp3');
-const audio3 = new Audio('/audio/trumpet3.mp3');
-const audio4 = new Audio('/audio/trumpet4.mp3');
-const audio5 = new Audio('/audio/trumpet5.mp3');
-const audio6 = new Audio('/audio/trumpet6.mp3');
-const audio7 = new Audio('/audio/trumpet7.mp3');
-const audio8 = new Audio('/audio/trumpet8.mp3');
-const audio9 = new Audio('/audio/trumpet9.mp3');
-const audio10 = new Audio('/audio/trumpet10.mp3');
+const audio = new Audio('audio/trumpet.mp3');
+const audio2 = new Audio('audio/trumpet2.mp3');
+const audio3 = new Audio('audio/trumpet3.mp3');
+const audio4 = new Audio('audio/trumpet4.mp3');
+const audio5 = new Audio('audio/trumpet5.mp3');
+const audio6 = new Audio('audio/trumpet6.mp3');
+const audio7 = new Audio('audio/trumpet7.mp3');
+const audio8 = new Audio('audio/trumpet8.mp3');
+const audio9 = new Audio('audio/trumpet9.mp3');
+const audio10 = new Audio('audio/trumpet10.mp3');
 
 
 document.addEventListener("keydown", checkKeyPressed, false);
